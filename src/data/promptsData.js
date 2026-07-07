@@ -47,22 +47,22 @@ export const promptsData = [
     "beforeImage": "/bef02.jpeg",
     "afterImage": "/aft06.png"
   },
-  // {
-  //   "id": 7,
-  //   "title": "Fantasy Forest Path",
-  //   "shortPrompt": "A mysterious path winding through a magical forest with giant glowing mushrooms.",
-  //   "fullPrompt": "A cobblestone path winding through an enchanted, dense forest at twilight. Giant bioluminescent mushrooms glowing in teal and magenta, tiny floating fireflies illuminating the ancient mossy trees, magical mist, whimsical fantasy setting, digital painting style.",
-  //   "beforeImage": "https://images.unsplash.com/photo-1511497584788-876760111969",
-  //   "afterImage": "https://images.unsplash.com/photo-1448375240586-882707db888b"
-  // },
-  // {
-  //   "id": 8,
-  //   "title": "Cybernetic Tactical Helmet",
-  //   "shortPrompt": "Sleek matte-black soldier helmet with glowing cyan visual visor HUD overlay.",
-  //   "fullPrompt": "A futuristic military tactical helmet with a matte black carbon-fiber chassis. Curved visor illuminated by glowing cyan HUD symbols, integrated cameras, external antennas, sci-fi soldier equipment, studio lighting, hyper-realistic hard surface model.",
-  //   "beforeImage": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5",
-  //   "afterImage": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5"
-  // },
+  {
+    "id": 7,
+    "title": "Cinematic Double Exposure Instagram Poster",
+    "shortPrompt": "Transform your portrait into a premium cinematic double-exposure poster with a modern editorial aesthetic.",
+    "fullPrompt": "Create image Create a cinematic poster using the SAME PERSON from the reference image. Preserve exact facial features, skin tone, hairstyle, and likeness perfectly. Design style: Modern Instagram poster Clean pastel blue/grey background Double exposure/layered composition Large upper portrait faded softly in background -Smaller full-body or half-body pose in foreground Confident stylish pose, sunglasses, casual modern outfit Soft studio lighting, smooth skin texture Editorial look, premium social media design Text design: Bold white typography behind the subject Text reads: 'ItsMeTharsh' Camera & quality: Shot on Sony A1 85mm lens, f/1.8 Sharp facial focus Cinematic depth Ultra high resolution Professional poster quality Instagram-ready portrait ratio (3:4) Mood: Confident Stylish Celebratory Clean & premium low quality, cartoon, anime, unrealistic face, face distortion, extra fingers, blur, noise, bad anatomy, different person, face change, oversharpen, overexposed, harsh shadows, messy background.",
+    "beforeImage": "/bef02.jpeg",
+    "afterImage": "/aft07.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "bullet bike gangster style",
+    "shortPrompt": "Without changing the facial features of above image man...",
+    "fullPrompt": "Without changing the facial features of above image man ,create an ultra realistic portrait of only man should be stylishly standing near red bullet bike in between  harbor with many containers. He should be standing stylishly and look down in attitude pose and adjusting and folding his shirt sleeve. He wearing coolers. Bike should be parked in side stand. He should wear thick gold chain and thick gold bracelet. He wears black sleeve silk shirt and white veshti and black slipper. Remove any harsh lightings/shadows/highlights and maintain only even lightings. Gangster type of picture . Dramatic clouds. There should be wind. Smoke fog in wind all over. Taller in height . Full body view and full view of bike should be visible. Aspect ratio 4:5",
+    "beforeImage": "/bef02.jpeg",
+    "afterImage": "/aft08.png"
+  },
   // {
   //   "id": 9,
   //   "title": "Retro Arcade Console",
