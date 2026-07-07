@@ -31,22 +31,22 @@ export const promptsData = [
     "beforeImage": "/bef02.jpeg",
     "afterImage": "/aft04.jpeg"
   },
-  // {
-  //   "id": 5,
-  //   "title": "Futuristic Spaceship Bridge",
-  //   "shortPrompt": "Command deck of an interstellar cruiser with holographic planetary map displays.",
-  //   "fullPrompt": "The interior command bridge of an interstellar cruiser overlooking a glowing nebula. Expansive curved windows, holographic blue galaxy maps floating in mid-air, sleek command consoles, leather pilot seats, moody blue and purple LED lighting, Unreal Engine 5 render.",
-  //   "beforeImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
-  //   "afterImage": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86"
-  // },
-  // {
-  //   "id": 6,
-  //   "title": "Cozy Anime Cafe",
-  //   "shortPrompt": "A warm coffee shop interior with pastries and sunlight filtering through windows.",
-  //   "fullPrompt": "Interior of a rustic, cozy Tokyo coffee shop in late afternoon. Golden hour sunlight streaming through glass panes, steam rising from fresh coffee mugs, wooden counters filled with detailed cakes and pastries, hanging ivy plants, soft pastel anime aesthetic.",
-  //   "beforeImage": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb",
-  //   "afterImage": "https://images.unsplash.com/photo-1554118811-1e0d58224f24"
-  // },
+  {
+    "id": 5,
+    "title": "Futuristic Spaceship Bridge",
+    "shortPrompt": "A futuristic spaceship bridge with a bustling cityscape in the background.",
+    "fullPrompt": "A close-up, high-contrast black and white portrait of a man looking directly into the camera with an intense expression. He has thick, voluminous messy dark hair, a neatly trimmed beard, and a mustache. He is wearing dark aviator-style sunglasses with a double bridge bar, which he lowers slightly down his nose with his right hand, peering directly over the top rims. On the ring finger of his right hand, he wears a prominent square signet ring with a dark center inlay. He is dressed in a dark button-up shirt, left open at the collar to reveal a hint of his chest. The background is a dark, out-of-focus brick wall with faint horizontal lines. The lighting is soft and directional, coming from the front-top oblique angle, highlighting his forehead, nose bridge, and knuckles while leaving the rest of the scene in deep shadow.",
+    "beforeImage": "/bef05.jpeg",
+    "afterImage": "/aft05.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Luxury Streetwear Graffiti Shacket",
+    "shortPrompt": "A charismatic hero standing in the mid-ground, wearing an oversized streetwear shacket with a relaxed boxy silhouette, covered in an all-over urban graffiti collage print.",
+    "fullPrompt": "MASTERPIECE ultra-realistic cinematic fashion editorial, luxury streetwear campaign, photographed by a world-class cinematographer, premium magazine-cover quality, Apple-inspired visual storytelling, 9:16 vertical composition. A charismatic hero(The uploaded male) standing in the mid-ground, wearing an Oversized streetwear shacket / utility overshirt with a relaxed boxy silhouette, dropped shoulders, slightly cropped length, full sleeves, and a wide camp-style collar. Bright white base fabric covered with an all-over urban graffiti collage print. Design features layered hand-drawn typography, abstract scribbles, paint splatters, distressed brush strokes, grunge textures, stencil graphics, and fragmented street-art elements randomly scattered across the garment. Large bold red spray-paint graphics dominate the composition, including graffiti tags, abstract symbols, rough paint drips, and oversized distressed letterforms. Secondary black handwritten script text such as "RICH" appears repeatedly in varying scales and angles. Faded charcoal-black vertical scratch marks, weathered texture streaks, and distressed print effects create a worn industrial aesthetic. Additional muted teal-green rectangular graphic blocks with vintage distressed textures are placed throughout the design, mixed with random geometric shapes and urban poster-style fragments. Small red circular emblem motifs and scattered doodle elements are integrated across the print. High-contrast white, red, black, and muted teal color palette. Chaotic asymmetrical placement with overlapping layers, creating a premium luxury streetwear, graffiti-art, contemporary fashion aesthetic. Two oversized front flap chest pockets, large matte snap-button closure, seamless all-over print extending across collar, sleeves, pockets, front panels, and hem. Premium designer-inspired street fashion, bold graphic maximalist composition, luxury urban culture vibe. Sleeves folded up stylishly. This oversized over shirt is weared over a plain white oversized tee. Relaxed black wide-leg trousers, clean white luxury sneakers, silver chain necklace, faded sunglasses. The hero stands with a confident relaxed posture, one hand c",
+    "beforeImage": "/bef02.jpeg",
+    "afterImage": "/aft06.jpeg"
+  },
   // {
   //   "id": 7,
   //   "title": "Fantasy Forest Path",
