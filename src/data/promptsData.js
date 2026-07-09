@@ -63,30 +63,30 @@ export const promptsData = [
     "beforeImage": "/bef02.jpeg",
     "afterImage": "/aft08.png"
   },
-  // {
-  //   "id": 9,
-  //   "title": "Retro Arcade Console",
-  //   "shortPrompt": "Classic 80s arcade machine cabinet with colorful vector game neon graphics.",
-  //   "fullPrompt": "A vintage 1980s arcade cabinet glowing in a dark gaming room. Bright neon magenta and cyan side art decals, double joysticks with red buttons, retro screen showing a pixel space shooter game, synthetic nostalgic atmosphere, high-detail render.",
-  //   "beforeImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f",
-  //   "afterImage": "https://images.unsplash.com/photo-1511512578047-dfb367046420"
-  // },
-  // {
-  //   "id": 10,
-  //   "title": "Glowing Underwater City",
-  //   "shortPrompt": "Bioluminescent bubble domes sitting on the ocean floor, deep sea structures.",
-  //   "fullPrompt": "A majestic utopian city built entirely underwater inside massive glass biodomes on the deep ocean floor. Glowing bioluminescent coral reefs, submarines cruising through columns, schools of glowing fish, deep blue ocean backdrop, cinematic wide shot.",
-  //   "beforeImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
-  //   "afterImage": "https://images.unsplash.com/photo-1544551763-46a013bb70d5"
-  // },
-  // {
-  //   "id": 11,
-  //   "title": "Steampunk Pocket Watch",
-  //   "shortPrompt": "Intricate brass watch with exposed gear mechanisms, valves, and escaping steam.",
-  //   "fullPrompt": "A close-up macro shot of an antique brass steampunk pocket watch. Intricate interlocking golden cogs and gears moving, tiny copper steam pipes, leather strap, soft candlelit reflections, dust particles floating, highly detailed mechanical masterpiece.",
-  //   "beforeImage": "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5",
-  //   "afterImage": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
-  // },
+  {
+    "id": 9,
+    "title": "Dreamy Artistic Collage Portrait",
+    "shortPrompt": "Ultra-realistic dreamy artistic collage portrait of a South...",
+    "fullPrompt": "Ultra-realistic dreamy artistic collage portrait of a South Indian man with a calm confident expression. Vertical 4:5 Instagram composition. Premium social-media-worthy editorial design with soft watercolor textures in white, sage green, olive green, and off-white tones. The man wears the same outfit in every collage frame: a crisp white casual linen shirt with sleeves rolled up and muted green pants, paired with white sneakers. Preserve the same hairstyle, facial features, beard, and outfit consistently across all views. Composition: one large full-body standing portrait as the centerpiece, surrounded by multiple half-body and close-up portraits at different angles. Include a side-profile portrait, a relaxed seated portrait, a thoughtful candid portrait, and a soft smiling portrait. Blend all portraits seamlessly into a watercolor canvas background with organic paint splashes, botanical leaves, subtle ink textures, and layered paper collage elements. Add elegant handwritten typography integrated into the design, such as “Be you • Do you • For you” and “Stay focused • Work hard • Make it happen.” Use soft cinematic lighting, shallow depth of field, natural skin tones, and a premium editorial aesthetic. The overall mood should feel dreamy, inspirational, modern, and highly shareable on Instagram. Style keywords: ultra-realistic, dreamy watercolor collage, editorial portrait, soft green and white palette, artistic layering, botanical elements, premium Instagram poster, cinematic lighting, high detail, elegant typography, watercolor splashes, paper texture, lifestyle fashion collage. Negative prompt: extra limbs, duplicate hands, inconsistent clothing, different colored pants, different shirts, distorted face, blurry eyes, low resolution, oversaturated colors, harsh shadows, text artifacts, watermark, logo, cartoon style, anime style. Aspect ratio 4:5",
+    "beforeImage": "/bef05.jpeg",
+    "afterImage": "/aft09.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Romantic Instagram Poster",
+    "shortPrompt": "Create an ultra-realistic romantic Instagram poster of a beautiful young...",
+    "fullPrompt": "Create an ultra-realistic romantic Instagram poster of a beautiful young South Indian woman standing in a dreamy flower garden. She is wearing an elegant white salwar suit (white chudi) with delicate embroidery, holding a bouquet of fresh white flowers toward the camera with a charming smile. Long voluminous wavy black hair flowing naturally, detailed facial features, expressive eyes, graceful pose, cinematic look. Surround the scene with vibrant pink blossoms, lush green foliage, floating flower petals, soft mist and dreamy smoke effects. Add warm golden sunlight flaring from the bottom corner, creating magical lighting and depth. Background features a bright blue fantasy sky with giant bold white typography displaying the name 'THRISHA' in tall 3D letters. Above it, elegant handwritten script text reading 'Butterfly 🦋'. Shallow depth of field, DSLR photography, ultra-detailed skin texture, high contrast, vibrant colors, fantasy romance aesthetic, premium poster design, volumetric lighting, soft bokeh, professional photo manipulation, ultra-realistic, 8K quality, 3:4 aspect ratio.",
+    "beforeImage": "/bef10.jpeg",
+    "afterImage": "/aft10.jpeg"
+  },
+  {
+    "id": 11,
+    "title": "Romantic Flower Garden Poster",
+    "shortPrompt": "Create an ultra-realistic romantic Instagram poster of a...",
+    "fullPrompt": "Create an ultra-realistic romantic Instagram poster of a stylish young man standing in a dreamy flower garden. He is wearing a crisp black shirt with rolled sleeves and white trousers, holding a bouquet of fresh white flowers toward the camera with a charming smile. Voluminous wavy black hair, detailed facial features, confident pose, cinematic look. Surround the scene with vibrant pink blossoms, lush green foliage, floating flower petals, soft mist and dreamy smoke effects. Add warm golden sunlight flaring from the bottom corner, creating magical lighting and depth. Background features a bright blue fantasy sky with giant bold white typography displaying the name \"THARSHAN\" in tall 3D letters. Above it, elegant handwritten script text reading 'It's Me'. Shallow depth of field, DSLR photography, ultra-detailed skin texture, high contrast, vibrant colors, fantasy romance aesthetic, premium poster design, volumetric lighting, soft bokeh, professional photo manipulation, ultra-realistic, 8K quality, 3:4 aspect ratio.",
+    "beforeImage": "/bef02.jpeg",
+    "afterImage": "/aft11.jpeg"
+  },
   // {
   //   "id": 12,
   //   "title": "Floating Sky Islands",
