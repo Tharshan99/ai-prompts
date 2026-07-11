@@ -87,36 +87,36 @@ export const promptsData = [
     "beforeImage": "/bef02.jpeg",
     "afterImage": "/aft11.jpeg"
   },
-  // {
-  //   "id": 12,
-  //   "title": "Floating Sky Islands",
-  //   "shortPrompt": "Majestic rocky islands floating high above the clouds with cascading waterfalls.",
-  //   "fullPrompt": "A wide angle cinematic scene of colossal floating islands suspended in a sunset sky. Massive waterfalls cascading from green grassy cliffs into the empty cloud layer below, ancient ruins, flock of birds flying between islands, ethereal fantasy atmosphere.",
-  //   "beforeImage": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1",
-  //   "afterImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23"
-  // },
-  // {
-  //   "id": 13,
-  //   "title": "Hacker Command Center",
-  //   "shortPrompt": "A dark cyberpunk room filled with vertical monitors displaying streams of green code.",
-  //   "fullPrompt": "A dark cyberpunk hacker den with multiple glowing green and red monitors. Cables hanging from the ceiling, terminal matrices of code scrolling, server racks with flashing indicator lights, cybernetic equipment, dark charcoal and green aesthetic, high detail.",
-  //   "beforeImage": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
-  //   "afterImage": "https://images.unsplash.com/photo-1563089145-599997674d42"
-  // },
-  // {
-  //   "id": 14,
-  //   "title": "Desert Oasis Palace",
-  //   "shortPrompt": "A golden sand palace surrounded by lush palm trees and crystal clear spring water.",
-  //   "fullPrompt": "An opulent Arabian palace constructed from white marble and gold, sitting next to a crystal-clear spring oasis in the middle of dunes. Lush green palm trees, colorful floral bushes, warm sunset rays casting long shadows, photorealistic rendering.",
-  //   "beforeImage": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9",
-  //   "afterImage": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750"
-  // },
-  // {
-  //   "id": 15,
-  //   "title": "Surreal Jellyfish Sky",
-  //   "shortPrompt": "Giant glowing ocean jellyfish floating in a violet starry cosmic sky, dreamlike.",
-  //   "fullPrompt": "A surreal dreamscape featuring massive, glowing translucent ocean jellyfish swimming gracefully through a deep violet night sky. Twinkling star constellations, cosmic nebula dust, glowing pastel tentacles brushing over silent forest treetops below, fantasy art.",
-  //   "beforeImage": "https://images.unsplash.com/photo-1519046904884-53103b34b206",
-  //   "afterImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
-  // }
+  {
+  "id": 12,
+  "title": "Digital Painting Poster",
+  "shortPrompt": "Ultra-detailed digital painting poster, nostalgic age-transformation portrait...",
+  "fullPrompt": "Ultra-detailed digital painting poster, nostalgic age-transformation portrait composition, featuring the same male person at two life stages. The younger version occupies the lower-right foreground, facing forward with calm confidence, smooth youthful skin, thick dark wavy hair, natural expression, dark eyes, realistic facial proportions. The older version appears larger in the upper-left background, positioned slightly behind, mature face with subtle aging, textured skin, expressive eyes, tousled dark hair with natural volume, wearing a light gray-blue casual button-up shirt with open collar. Fine-art painterly realism with visible brush strokes, hand-painted texture, semi-abstract portrait rendering, highly detailed eyes, realistic skin texture, cinematic soft lighting, emotional storytelling composition. Muted charcoal, slate gray, warm beige, dusty ivory, weathered teal, faded blue-gray color palette. Moody artistic atmosphere with layered paint textures and distressed canvas effects. Background composed of grunge mixed-media textures, faded plaster walls, scratched paint layers, watercolor washes, charcoal smudges, ink splatters, rough brush marks, aged paper texture, subtle geometric sketch lines, handwritten notes, faded manuscript fragments, abstract scribbles, sketchbook aesthetics. Dark vignette around edges gradually fading toward the center. Handwritten typography integrated organically into the artwork using elegant cursive calligraphy, black ink appearance, partially transparent layering. Include inspirational phrases scattered throughout the composition: \"Some dreams don't age, they evolve.\" \"Then. Now. Always.\" \"Same heart. Different chapters. One story.\" \"Not just a phase, a journey in progress.\" \"Time changes everything, yet some things remain.\" Typography should appear naturally hand-written with varying opacity, imperfect strokes, overlapping sketch elements, subtle underlines, crossed marks, artistic annotations, notebook-style doodles, and faded journal writing. Add small decorative details: Minimalist crown doodle near upper-right area. Fine pencil sketch lines and abstract geometric markings. Random faded handwritten paragraphs in the background. Ink splashes and paint drips. Layered teal paint strokes behind selected text. Artist-signature style cursive writing near lower-right corner. Light scratch marks and distressed texture overlays. Composition balance: Older portrait occupies approximately 60% of visual weight in upper-left. Younger portrait occupies approximately 40% in lower-right. Slight overlap between figures.",
+  "beforeImage": "/bef02.jpeg",
+  "afterImage": "/aft12.png"
+},
+  {
+    "id": 13,
+    "title": "Teenage Boy Collage Poster",
+    "shortPrompt": "Create a high-quality cinematic collage poster of a teenage...",
+    "fullPrompt": "Create a high-quality cinematic collage poster of a teenage boy with stylish curly hair and black outfit inspired by modern Instagram creator edits. The design should have multiple black-and-white side portraits in the background and one detailed main portrait in the center with a digital painting effect.  Add dramatic blue neon lighting, deep shadows, glowing highlights, and a dark aesthetic background Put stylish sunglasses on the head, silver chain, confident attitude, and sharp facial details. At the bottom, write the name \'All is well\' in large bold brush-style typography with glowing blue effects. Add motivational text like \'Dream Believe. Achieve\' and \'Legends Never Die\'. Make it ultra HD, professional, cinematic, trendy, and visually powerful like a YouTube/Instagram creator poster. 100% original face.",
+    "beforeImage": "/bef05.jpeg",
+    "afterImage": "/aft13.png"
+  },
+  {
+    "id": 14,
+    "title": "Dreamy Romantic Collage Portrait",
+    "shortPrompt": "Using the uploaded image as the reference for both characters...",
+    "fullPrompt": "Using the uploaded image as the reference for both characters, create a dreamy romantic collage-style portrait inspired by a Bollywood love story. Preserve the facial features and identity of both people from the reference image. The composition features multiple candid moments of the couple blended together with soft transitions and cinematic storytelling. \"One scene shows them lying close together on a bed, gazing lovingly into each other's eyes.Another captures them laughing joyfully while sharing a playful moment. A third scene shows the man hugging the woman from behind near a calm waterfront, both smiling naturally and enjoying the moment. Include an intimate close-up of their happy faces, highlighting genuine emotions and chemistry.The atmosphere is warm, nostalgic, and romantic, with soft golden-hour lighting, gentle haze, dreamy bokeh, and pastel color grading.Add hand-drawn white and peach heart doodles scattered throughout the collage. Incorporate elegant handwritten text reading \"என் உயிர் நீயடா\" as a subtle artistic element.stylish writing. Ultra-realistic photography, cinematic depth of field, soft skin tones, natural expressions, emotional storytelling, premium Bollywood movie poster aesthetic, highly detailed, 8K resolution, magazine-quality romantic artwork, beautiful composition, warm and affectionate mood, with 100% accurate.",
+    "beforeImage": "/bef10.jpeg",
+    "afterImage": "/aft14.png"
+  },
+  {
+    "id": 15,
+    "title": "Chibi-Style Miniature Couple Portrait",
+    "shortPrompt": "Ultra-realistic cinematic 3D chibi-style miniature couple portrait...",
+    "fullPrompt": "Ultra-realistic cinematic 3D chibi-style miniature couple portrait inside a human palm, inspired by cute collectible figurines. A handsome young South Indian man with thick wavy black hair, trimmed beard, expressive brown eyes, and warm brown skin sits beside a beautiful young South Indian woman with long silky black hair, big expressive eyes, soft glowing skin, and a cute pout expression. Both are wearing elegant matching black traditional outfits with subtle golden embroidery details. The tiny couple is sitting closely together on a realistic open human palm, with the woman's cheek being gently pinched by another large hand from the side, creating a playful romantic mood. The man looks slightly annoyed and protective while the woman makes an adorable pout face. Around them are multiple smaller miniature versions of the same couple in different romantic poses - hugging, holding hands, sitting together, smiling, and holding a tiny red heart. Background features a warm cozy indoor café/classroom atmosphere with cinematic bokeh lights, wooden tables, soft depth of field, dreamy golden lighting, and emotional romantic ambience. Highly detailed Pixar-style 3D rendering, ultra realistic skin texture, glossy expressive eyes, realistic hair strands, soft shadows, depth perspective, warm color grading, macro photography look, cute aesthetic, collectible toy vibe, shallow DOF, masterpiece quality, 8K ultra detail. Photo size margin 4:5",
+    "beforeImage": "/bef15.jpg",
+    "afterImage": "/aft15.png"
+  }
 ];
