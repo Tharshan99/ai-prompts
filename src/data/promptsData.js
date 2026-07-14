@@ -129,18 +129,18 @@ export const promptsData = [
   },
   {
     "id": 17,
-    "title": "",
-    "shortPrompt": "",
+    "title": "Father and Toddler Playful Interaction Illustration",
+    "shortPrompt": "Premium painterly digital illustration in warm earthy tones...",
     "fullPrompt": "Premium painterly digital illustration in warm earthy tones, soft textured brush strokes, semi-realistic stylized rendering, inspired by hand-painted cinematic artwork, warm beige, terracotta, and muted brown abstract background with painterly strokes, no sharp details in background, focus entirely on subjects. 30-year-old South Indian man, strong jawline, warm expressive brown eyes, thick eyebrows, straight nose, medium lips, slightly wavy medium-length black hair with natural volume, light well-groomed stubble beard, medium-tan skin tone, athletic build, broad shoulders, confident yet warm expression. Realistic 2-year-old toddler boy, short stubby legs, round tummy, chubby cheeks, large head-to-body ratio, soft baby features, curly black hair, large expressive brown eyes, tiny fingers, realistic toddler anatomy, adorable dimpled smile, natural baby skin texture, playful expressions. Father wearing a deep red casual cotton shirt with rolled sleeves, slightly wrinkled natural fabric folds, off-white traditional mundu/dhoti with soft creases and gold border, barefoot; toddler wearing a matching red shirt and cream mundu-style shorts with soft fabric folds, tiny gold anklet, barefoot. Father lying slightly reclined on the ground, arms extended upward mid-motion lifting the toddler above him, toddler leaning forward laughing with mouth open, eyes squinting in joy, one tiny hand reaching toward father's face, father looking up with a wide natural laugh, eyes crinkled, both caught mid-action with natural body tension and motion. Warm cinematic lighting from top-left, soft highlights on skin, gentle shadow falloff, painterly light blending, subtle glow edges. Soft depth, slightly blurred painterly edges, focus on expressions and interaction. Highly detailed digital painting, ultra high resolution, realistic skin shading with painterly texture, soft blending, natural color grading, no harsh outlines, expressive brush strokes, emotionally rich composition, no Al artifacts, no distortion, masterpiece illustration quality --ar 9:16.",
     "beforeImage": "/bef02.jpeg",
     "afterImage": "/aft17.png"
   },
-  // {
-  //   "id": 16,
-  //   "title": "",
-  //   "shortPrompt": "",
-  //   "fullPrompt": "",
-  //   "beforeImage": "/bef16.jpg",
-  //   "afterImage": "/aft16.png"
-  // },
+  {
+    "id": 18,
+    "title": "Solitary Man in Nature",
+    "shortPrompt": "Make a picture of this man without changing his face...",
+    "fullPrompt": "Make a picture of this man without changing his face and hair,, with a very calm composition, accentuating the feeling of peaceful solitude and focus in the middle of nature. In the middle of the grass bed, there was a man sitting on a black folding chair (camping chair). He looked very diligent in writing or drawing in a large white notebook open on his lap. He wore an outfit and glasses according to the uploaded references. He also wore headphones according to the uploaded references, indicating that he was listening to music to help his concentration. Her hair was a little messy in the wind. He sat in a relaxed position but remained upright, giving the impression that he was very immersed in his activities. Photos are taken remotely using a long shot technique. The photographer seems to be shooting from behind a mound of grass or bush, creating a large green bokeh effect in the foreground section. The use of a plant on the front and a tree branch on the upper right forms a natural frame that directs the viewer s eyes directly to the subject in the center of the image. The human subject looks small compared to the extent of the green expanse, emphasizing a positive sense of solitude and the tranquility of open spaces. The background is a sloping hill or meadow with a fresh and even green color. The texture of the grass looks smooth. On the upper right side there is a tree branch with lush green leaves, giving a little shady impression to the composition of the picture. In the upper left distance, you can see a small portion of a trail or a lighter area of land. Lighting looks soft and even, as on a slightly cloudy day or late afternoon, without sharp shadows or distracting contrast. The dominant colors in this photo are dark green and light green, which psychologically provide a calming and refreshing effect. The contrast between the subject's black clothing and white headphones keeps the young man's figure prominent without damaging the natural color harmony around him. Aspect ratio 3: 4.",
+    "beforeImage": "/bef02.jpeg",
+    "afterImage": "/aft18.png"
+  }
 ];
