@@ -118,5 +118,29 @@ export const promptsData = [
     "fullPrompt": "Ultra-realistic cinematic 3D chibi-style miniature couple portrait inside a human palm, inspired by cute collectible figurines. A handsome young South Indian man with thick wavy black hair, trimmed beard, expressive brown eyes, and warm brown skin sits beside a beautiful young South Indian woman with long silky black hair, big expressive eyes, soft glowing skin, and a cute pout expression. Both are wearing elegant matching black traditional outfits with subtle golden embroidery details. The tiny couple is sitting closely together on a realistic open human palm, with the woman's cheek being gently pinched by another large hand from the side, creating a playful romantic mood. The man looks slightly annoyed and protective while the woman makes an adorable pout face. Around them are multiple smaller miniature versions of the same couple in different romantic poses - hugging, holding hands, sitting together, smiling, and holding a tiny red heart. Background features a warm cozy indoor café/classroom atmosphere with cinematic bokeh lights, wooden tables, soft depth of field, dreamy golden lighting, and emotional romantic ambience. Highly detailed Pixar-style 3D rendering, ultra realistic skin texture, glossy expressive eyes, realistic hair strands, soft shadows, depth perspective, warm color grading, macro photography look, cute aesthetic, collectible toy vibe, shallow DOF, masterpiece quality, 8K ultra detail. Photo size margin 4:5",
     "beforeImage": "/bef15.jpg",
     "afterImage": "/aft15.png"
-  }
+  },
+  {
+    "id": 16,
+    "title": "Chibi-Style Miniature Portrait",
+    "shortPrompt": "Use a real face as a reference photo. The background...",
+    "fullPrompt": "Use a real face as a reference photo. The background is the same as in the photo. The lighting is warm, soft, and clean, with subtle shadows. Around the image, add several mini chibi (3D cute style) versions of the character, while maintaining the original facial features. expressions: jumping cheerfully waving sitting relaxed holding a drink cute and playful expressions Add hand-drawn white doodle elements: outline around the main body stars, hearts, sparkles motion lines small cute icons Add aesthetic handwriting such as: \"shine,\" \"bright day,\" \"happy,\" \"smile,\" etc. (casual doodle font) Overall style: clean & aesthetic composition white sticker outline soft pastel color tone high detail 3D chibi glossy look cute Korean style instagrammable.",
+    "beforeImage": "/bef10.jpeg",
+    "afterImage": "/aft16.png"
+  },
+  {
+    "id": 17,
+    "title": "",
+    "shortPrompt": "",
+    "fullPrompt": "Premium painterly digital illustration in warm earthy tones, soft textured brush strokes, semi-realistic stylized rendering, inspired by hand-painted cinematic artwork, warm beige, terracotta, and muted brown abstract background with painterly strokes, no sharp details in background, focus entirely on subjects. 30-year-old South Indian man, strong jawline, warm expressive brown eyes, thick eyebrows, straight nose, medium lips, slightly wavy medium-length black hair with natural volume, light well-groomed stubble beard, medium-tan skin tone, athletic build, broad shoulders, confident yet warm expression. Realistic 2-year-old toddler boy, short stubby legs, round tummy, chubby cheeks, large head-to-body ratio, soft baby features, curly black hair, large expressive brown eyes, tiny fingers, realistic toddler anatomy, adorable dimpled smile, natural baby skin texture, playful expressions. Father wearing a deep red casual cotton shirt with rolled sleeves, slightly wrinkled natural fabric folds, off-white traditional mundu/dhoti with soft creases and gold border, barefoot; toddler wearing a matching red shirt and cream mundu-style shorts with soft fabric folds, tiny gold anklet, barefoot. Father lying slightly reclined on the ground, arms extended upward mid-motion lifting the toddler above him, toddler leaning forward laughing with mouth open, eyes squinting in joy, one tiny hand reaching toward father's face, father looking up with a wide natural laugh, eyes crinkled, both caught mid-action with natural body tension and motion. Warm cinematic lighting from top-left, soft highlights on skin, gentle shadow falloff, painterly light blending, subtle glow edges. Soft depth, slightly blurred painterly edges, focus on expressions and interaction. Highly detailed digital painting, ultra high resolution, realistic skin shading with painterly texture, soft blending, natural color grading, no harsh outlines, expressive brush strokes, emotionally rich composition, no Al artifacts, no distortion, masterpiece illustration quality --ar 9:16.",
+    "beforeImage": "/bef02.jpeg",
+    "afterImage": "/aft17.png"
+  },
+  // {
+  //   "id": 16,
+  //   "title": "",
+  //   "shortPrompt": "",
+  //   "fullPrompt": "",
+  //   "beforeImage": "/bef16.jpg",
+  //   "afterImage": "/aft16.png"
+  // },
 ];
