@@ -156,7 +156,7 @@ export const promptsData = [
     "title": "High-Fashion Editorial Magazine Cover",
     "shortPrompt": "Create a high-fashion editorial magazine cover inspired...",
     "fullPrompt": "Create a high-fashion editorial magazine cover inspired by VOGUE. The design should feature a confident young woman riding a vintage bicycle through a charming European-style street with soft natural lighting and blurred boutique storefronts in the background. She is wearing a soft blush pink fitted top paired with a flowing emerald green pleated skirt. Her long wavy hair is styled with a delicate braided crown, gently flowing with motion. She has a joyful, elegant expression, looking slightly to the side as she rides. The bicycle should have a classic design with a front basket filled with fresh pastel flowers (roses, peonies, and baby\’s breath), enhancing a romantic and feminine aesthetic. At the top, include large, bold, white serif typography: \“VOGUE\” Add subtle editorial text elements like:\“Spring Romance Issue\” \“Timeless Elegance on Wheels\” \“Parisian Street Style 2026\” Style: ultra-realistic, high fashion photography, cinematic depth of field, soft golden-hour lighting, luxury magazine cover aesthetic, sharp focus on subject with dreamy background blur, vertical composition",
-    "beforeImage": "/bef02.jpeg",
+    "beforeImage": "/bef10.jpeg",
     "afterImage": "/aft20.png"
   },
   {
@@ -166,5 +166,21 @@ export const promptsData = [
     "fullPrompt": "Create a cinematic biography poster using the uploaded photos. Keep the face, hairstyle, and identity exactly the same as in the reference images. Place the main color portrait in the center foreground with a confident smile. Create 4–5 black-and-white portrait panels of the same person in the background showing different angles and expressions. Use a deep red dramatic background with subtle faded eyes behind the collage. Add professional movie-poster lighting, elegant color grading, high contrast, depth, realistic skin texture, premium cinematic look, Bollywood-style biography poster, ultra detailed, 4K quality. Replace the title text with: ITSME THARSHAN.",
     "beforeImage": "/bef02.jpeg",
     "afterImage": "/aft21.png"
+  },
+  {
+    "id": 22,
+    "title": "Romantic Night Photoshoot Poster",
+    "shortPrompt": "Romantic night photoshoot of a young couple, boy...",
+    "fullPrompt": "Romantic night photoshoot of a young couple, boy kneeling and kissing girl\'s hand, cinematic pose, black background, dramatic low-key lighting, double exposure style with one black-and-white layer and one colored layer, soft smile, emotional love moment, stylish casual outfits, high contrast, professional portrait photography, shallow depth of field, ultra realistic, Instagram reel aesthetic, 85mm lens, HD quality\" 16k DSLR quality. 100% original face and no changes in face.",
+    "beforeImage": "/bef10.jpeg",
+    "afterImage": "/aft22.png"
+  },
+  {
+    "id": 23,
+    "title": "Romantic Couple Illustration",
+    "shortPrompt": "Use my uploaded face as a strict reference — keep...",
+    "fullPrompt": "Use my uploaded face as a strict reference — keep 100% facial accuracy (changes in face, skin tone, wavy hair, or proportions). Create a romantic digital illustration of a couple sitting at a table. Pose (exact): Man on the left, leaning forward, elbow on table, head resting on his hand, looking at the woman, Woman on the right, leaning forward, elbow on table, hand near her ear, looking at the man Same relaxed, close, intimate pose Style: Soft semi-realistic illustration Warm beige/peach tones Smooth shading, slightly painterly Clothing: Man: light pink shirt Woman: floral cardigan with pink frock Background: Plain warm beige with soft texture Small doodles (hearts, sparkles, simple lines) Text (top): \“he treats me exactly like this song sounds!\” Small text: \“he is my தெய்வம் தந்த பூவே!\” Handwritten/brush style font Quality: Clean, high-resolution, poster style Smooth shading, slightly painterly.",
+    "beforeImage": "/bef23.jpg",
+    "afterImage": "/aft23.png"
   }
 ];
