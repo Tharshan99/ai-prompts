@@ -142,5 +142,29 @@ export const promptsData = [
     "fullPrompt": "Make a picture of this man without changing his face and hair,, with a very calm composition, accentuating the feeling of peaceful solitude and focus in the middle of nature. In the middle of the grass bed, there was a man sitting on a black folding chair (camping chair). He looked very diligent in writing or drawing in a large white notebook open on his lap. He wore an outfit and glasses according to the uploaded references. He also wore headphones according to the uploaded references, indicating that he was listening to music to help his concentration. Her hair was a little messy in the wind. He sat in a relaxed position but remained upright, giving the impression that he was very immersed in his activities. Photos are taken remotely using a long shot technique. The photographer seems to be shooting from behind a mound of grass or bush, creating a large green bokeh effect in the foreground section. The use of a plant on the front and a tree branch on the upper right forms a natural frame that directs the viewer s eyes directly to the subject in the center of the image. The human subject looks small compared to the extent of the green expanse, emphasizing a positive sense of solitude and the tranquility of open spaces. The background is a sloping hill or meadow with a fresh and even green color. The texture of the grass looks smooth. On the upper right side there is a tree branch with lush green leaves, giving a little shady impression to the composition of the picture. In the upper left distance, you can see a small portion of a trail or a lighter area of land. Lighting looks soft and even, as on a slightly cloudy day or late afternoon, without sharp shadows or distracting contrast. The dominant colors in this photo are dark green and light green, which psychologically provide a calming and refreshing effect. The contrast between the subject's black clothing and white headphones keeps the young man's figure prominent without damaging the natural color harmony around him. Aspect ratio 3: 4.",
     "beforeImage": "/bef02.jpeg",
     "afterImage": "/aft18.png"
+  },
+  {
+    "id": 19,
+    "title": "Double-Exposure Poster",
+    "shortPrompt": "Double-exposure poster featuring ultra-detailed lighting...",
+    "fullPrompt": "Double-exposure poster featuring ultra-detailed lighting and premium quality. A close-up shot capturing a serious subject—a masculine figure—poised and focused on the task at hand. The composition blends dramatic flair with vibrant color accents, grunge textures, and artistic styling. It moves beyond monochrome, emphasizing a bold, masculine aesthetic. Features include hyper-realistic detail, cinematic framing, high-contrast tones, and a filmic look. 9:16 Ultra HD, 8K resolution, professional digital quality, dramatic visuals, and a modern cinematic aesthetic.",
+    "beforeImage": "/aft04.jpeg",
+    "afterImage": "/aft19.png"
+  },
+  {
+    "id": 20,
+    "title": "High-Fashion Editorial Magazine Cover",
+    "shortPrompt": "Create a high-fashion editorial magazine cover inspired...",
+    "fullPrompt": "Create a high-fashion editorial magazine cover inspired by VOGUE. The design should feature a confident young woman riding a vintage bicycle through a charming European-style street with soft natural lighting and blurred boutique storefronts in the background. She is wearing a soft blush pink fitted top paired with a flowing emerald green pleated skirt. Her long wavy hair is styled with a delicate braided crown, gently flowing with motion. She has a joyful, elegant expression, looking slightly to the side as she rides. The bicycle should have a classic design with a front basket filled with fresh pastel flowers (roses, peonies, and baby\’s breath), enhancing a romantic and feminine aesthetic. At the top, include large, bold, white serif typography: \“VOGUE\” Add subtle editorial text elements like:\“Spring Romance Issue\” \“Timeless Elegance on Wheels\” \“Parisian Street Style 2026\” Style: ultra-realistic, high fashion photography, cinematic depth of field, soft golden-hour lighting, luxury magazine cover aesthetic, sharp focus on subject with dreamy background blur, vertical composition",
+    "beforeImage": "/bef02.jpeg",
+    "afterImage": "/aft20.png"
+  },
+  {
+    "id": 21,
+    "title": "Cinematic Biography Poster",
+    "shortPrompt": "Create a cinematic biography poster using the uploaded...",
+    "fullPrompt": "Create a cinematic biography poster using the uploaded photos. Keep the face, hairstyle, and identity exactly the same as in the reference images. Place the main color portrait in the center foreground with a confident smile. Create 4–5 black-and-white portrait panels of the same person in the background showing different angles and expressions. Use a deep red dramatic background with subtle faded eyes behind the collage. Add professional movie-poster lighting, elegant color grading, high contrast, depth, realistic skin texture, premium cinematic look, Bollywood-style biography poster, ultra detailed, 4K quality. Replace the title text with: ITSME THARSHAN.",
+    "beforeImage": "/bef02.jpeg",
+    "afterImage": "/aft21.png"
   }
 ];
