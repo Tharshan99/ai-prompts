@@ -182,5 +182,13 @@ export const promptsData = [
     "fullPrompt": "Use my uploaded face as a strict reference — keep 100% facial accuracy (changes in face, skin tone, wavy hair, or proportions). Create a romantic digital illustration of a couple sitting at a table. Pose (exact): Man on the left, leaning forward, elbow on table, head resting on his hand, looking at the woman, Woman on the right, leaning forward, elbow on table, hand near her ear, looking at the man Same relaxed, close, intimate pose Style: Soft semi-realistic illustration Warm beige/peach tones Smooth shading, slightly painterly Clothing: Man: light pink shirt Woman: floral cardigan with pink frock Background: Plain warm beige with soft texture Small doodles (hearts, sparkles, simple lines) Text (top): \“he treats me exactly like this song sounds!\” Small text: \“he is my தெய்வம் தந்த பூவே!\” Handwritten/brush style font Quality: Clean, high-resolution, poster style Smooth shading, slightly painterly.",
     "beforeImage": "/bef23.jpg",
     "afterImage": "/aft23.png"
+  },
+  {
+    "id": 24,
+    "title": "Man Sitting at a Wooden Table with Bracelet and Flask",
+    "shortPrompt": "Man seated at a wooden table, resting one hand on his head...",
+    "fullPrompt": "Man seated at a wooden table, resting one hand on his head in a slightly disheveled yet thoughtful pose, as per the reference image uploaded (100% face matching). His expression is intense and contemplative, with a stern yet weary gaze that conveys quiet depth and inner tension. He gives a rugged, natural appearance. His other hand rests on the table, pointing downward with a subtle, deliberate gesture toward a silver thin bracelet (also attached) standing upright on the wooden surface, suggesting control and precision.Beside his hand lies a black leather flask with visible stitching, adding a grounded, masculine detail. He wears a dark blue casual shirt, partially unbuttoned at the top, revealing a hint of chest hair — the fabric shows realistic folds and texture. Soft neutral gray background, cinematic studio lighting with gentle shadows that highlight his facial contours and mood. Ultra-realistic textures, lifelike skin tone, moody yet natural tone, 8k, hyper-realistic portrait photography, shallow depth of field, fine detail focus.",
+    "beforeImage": "/bef24.jpeg",
+    "afterImage": "/aft24.png"
   }
 ];
