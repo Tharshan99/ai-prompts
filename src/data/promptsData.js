@@ -190,5 +190,53 @@ export const promptsData = [
     "fullPrompt": "Man seated at a wooden table, resting one hand on his head in a slightly disheveled yet thoughtful pose, as per the reference image uploaded (100% face matching). His expression is intense and contemplative, with a stern yet weary gaze that conveys quiet depth and inner tension. He gives a rugged, natural appearance. His other hand rests on the table, pointing downward with a subtle, deliberate gesture toward a silver thin bracelet (also attached) standing upright on the wooden surface, suggesting control and precision.Beside his hand lies a black leather flask with visible stitching, adding a grounded, masculine detail. He wears a dark blue casual shirt, partially unbuttoned at the top, revealing a hint of chest hair — the fabric shows realistic folds and texture. Soft neutral gray background, cinematic studio lighting with gentle shadows that highlight his facial contours and mood. Ultra-realistic textures, lifelike skin tone, moody yet natural tone, 8k, hyper-realistic portrait photography, shallow depth of field, fine detail focus.",
     "beforeImage": "/bef24.jpeg",
     "afterImage": "/aft24.png"
-  }
+  },
+  {
+    "id": 25,
+    "title": "Confident Woman in Pastel Red Kurta Set with Glowing Marquee Letters",
+    "shortPrompt": "A confident woman with long black hair wearing...",
+    "fullPrompt": "A confident woman with long black hair wearing a bright pastel red kurta set with green dupatta standing full-body with arms crossed in a warm pretty scenery. Beside her is a vertical stack of glowing 3D rose-gold marquee letters spelling \"Keerthi\" each letter placed on wooden shelves with miniature versions of the same woman in different poses like reading, drinking coffee, and hugging a teddy bear. Full white skin tone and ultra HD images follow.",
+    "beforeImage": "/bef23.jpeg",
+    "afterImage": "/aft25.png"
+  },
+  {
+    "id": 26,
+    "title": "Cinematic Portrait of a Rugged Man Smoking a Cigarette",
+    "shortPrompt": "Picture Description ​This is a close-up, dramatic portrait...",
+    "fullPrompt": "Picture Description ​This is a close-up, dramatic portrait of a man, likely an actor (it appears to be Indian actor Vijay from the movie Leo), exuding a rugged and sophisticated intensity. The lighting is low-key, enhancing the mood and creating strong contrast. Character and Actions ​Subject: The man has a commanding presence. He sports salt-and-pepper hair (mostly silver/grey) styled in a voluminous, swept-back manner. He has a neatly trimmed silver-grey beard and mustache. ​Action: He is smoking a cigar, which is held between his lips, and a plume of smoke is visible rising from the side of his head, adding to the dramatic effect. He is actively pointing his index finger directly at the viewer, which makes the image very engaging and confrontational. ​Expression: His expression is intense, serious, and perhaps slightly menacing, largely obscured by his sunglasses but conveyed through the gesture and posture. Dress Code ​Attire: He is wearing a crisp white collared dress shirt, which contrasts sharply with the darker elements of the photo. ​Accessories: ​He wears a pair of dark, rectangular-framed sunglasses that cover his eyes. ​He has a brown shawl or sweater draped casually over his right shoulder and around his neck. ​Background and Setting ​Background: The background is dark and out of focus (shallow depth of field), suggesting an indoor setting, possibly an interior space like a grand house or a club. ​Structure: Visible behind him are what appear to be dark wooden or stone stairs/steps leading up and away from the camera, adding a sense of depth and perhaps hinting at an escape or a climb. ​Atmosphere: The overall mood is gritty, serious, and action-oriented, characteristic of a thriller or action movie aesthetic. ​Camera Angles and Technique ​Shot Type: It is a close-up or medium close-up shot, focusing almost entirely on the man's head, shoulders, and pointing hand. ​Angle: The camera is positioned slightly below the subject (a low-angle shot), which makes him appear taller, more dominant, and authoritative. ​Lighting: The lighting is directional and focused on the subject\'s face and shirt, leaving the background in deep shadow (chiaroscuro effect). This highlights his features and creates a dramatic, cinematic feel. ​Focus: The focus is sharp on the man\'s face and pointing hand, while the background is heavily blurred (bokeh), drawing all attention to the subject.", 
+    "beforeImage": "/bef24.jpeg",
+    "afterImage": "/aft26.png"
+  },
+  {
+  "id": 27,
+  "title": "Cinematic Instagram Portrait with 3D Breakout Effect",
+  "shortPrompt": "Create a hyper-realistic portrait based on the reference photos, presented...",
+  "fullPrompt": "Create a hyper-realistic portrait based on the reference photos, presented inside an oversized Instagram post frame that dominates the scene. Preserve his facial features exactly as in the reference—delicate yet sharp, clean, and naturally handsome.\n\nHe stands in a modern, dynamic pose with his upper body leaning slightly forward as if engaging directly with the viewer. One hand casually grips the top edge of the Instagram frame, while one leg steps gracefully out of the frame, creating a seamless and stylish 3D breakout illusion. The pose should feel youthful, fresh, effortlessly masculine, and confidently cool. Give him a high-fashion model expression, with calm, magnetic eyes locked directly on the viewer.\n\nHe wears a fitted black shirt, high-waisted straight-fit black trousers, and sleek black low-top sneakers, creating a premium monochromatic outfit that feels luxurious, modern, and approachable.\n\nThe Instagram frame is ultra-realistic and includes:\n• Username: \"ItsMeTharshan\"\n• Verified badge\n• Display name: \"AI Generation\"\n• Caption: \"Kollywood's Top AI Generator\"\n• Authentic Instagram UI elements (like, comment, share, and save icons)\n• A circular profile picture identical to the reference photo\n\nThe background features a modern gradient transitioning from deep red to soft black, enhanced with subtle textures and gentle highlights that perfectly complement the dark outfit. Clean cinematic lighting accentuates his facial structure, clothing details, and the realistic 3D breakout effect, resulting in a premium, editorial-quality, viral-ready Instagram portrait.",
+  "beforeImage": "/bef24.jpeg",
+  "afterImage": "/aft27.png"
+}
+  // {
+  //   "id": 27,
+  //   "title": "",
+  //   "shortPrompt": "",
+  //   "fullPrompt": "",
+  //   "beforeImage": "/bef24.jpeg",
+  //   "afterImage": "/aft24.png"
+  // },
+  // {
+  //   "id": 27,
+  //   "title": "",
+  //   "shortPrompt": "",
+  //   "fullPrompt": "",
+  //   "beforeImage": "/bef24.jpeg",
+  //   "afterImage": "/aft24.png"
+  // },
+  // {
+  //   "id": 27,
+  //   "title": "",
+  //   "shortPrompt": "",
+  //   "fullPrompt": "",
+  //   "beforeImage": "/bef24.jpeg",
+  //   "afterImage": "/aft24.png"
+  // },
 ];
