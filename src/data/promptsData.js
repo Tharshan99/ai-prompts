@@ -196,7 +196,7 @@ export const promptsData = [
     "title": "Confident Woman in Pastel Red Kurta Set with Glowing Marquee Letters",
     "shortPrompt": "A confident woman with long black hair wearing...",
     "fullPrompt": "A confident woman with long black hair wearing a bright pastel red kurta set with green dupatta standing full-body with arms crossed in a warm pretty scenery. Beside her is a vertical stack of glowing 3D rose-gold marquee letters spelling \"Keerthi\" each letter placed on wooden shelves with miniature versions of the same woman in different poses like reading, drinking coffee, and hugging a teddy bear. Full white skin tone and ultra HD images follow.",
-    "beforeImage": "/bef23.jpeg",
+    "beforeImage": "/bef23.jpg",
     "afterImage": "/aft25.png"
   },
   {
